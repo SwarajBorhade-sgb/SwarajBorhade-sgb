@@ -14,7 +14,6 @@ I'm Swaraj Borhade, an aspiring **Data Analyst** based in Mumbai.
 I recently completed virtual internships with **Tata Consultancy Services** and **Quantium**, where I worked on real-world business datasets using **Power BI, SQL, and R**.  
 I'm passionate about uncovering insights from data to support strategic decision-making and solve real-world problems.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360"/>
 
 ---
 
@@ -36,15 +35,6 @@ I'm passionate about uncovering insights from data to support strategic decision
 ### 📫 Reach Me:
 - 📧 Email: [borhadeswaraj01@gmail.com](mailto:borhadeswaraj01@gmail.com)
 - 🌐 Portfolio: *Coming Soon...*
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swarajborhade&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajborhade&layout=compact&hide_border=true" />
-</p>
 
 ---
 
