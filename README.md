@@ -3,7 +3,7 @@
 ### Hi there, I'm Swaraj Borhade 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-borhade-921a411a4)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)(mailto:borhadeswaraj01@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:borhadeswaraj01@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/SwarajBorhade-sgb?tab=repositories)
 
 ---
