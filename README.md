@@ -10,9 +10,11 @@
 
 ### 👋 Welcome to my GitHub space!
 
-I'm Swaraj Borhade, an aspiring **Data Analyst** based in Mumbai.  
-I recently completed virtual internships with **Tata Consultancy Services**, **Deloitte** and **Quantium**, where I worked on real-world business datasets using **Power BI, SQL, and R**.  
-I'm passionate about uncovering insights from data to support strategic decision-making and solve real-world problems.
+Hi, I’m **Swaraj Borhade** — an aspiring **Data Analyst** from Mumbai, India with a passion for turning raw data into meaningful insights that drive strategic decision-making.
+
+With hands-on experience in **Power BI, Tableau, SQL, R, and Excel**, I’ve completed real-world analytics projects and internships where I translated complex business data into actionable dashboards and reports.
+
+I enjoy solving analytical problems, uncovering trends, and building tools that help teams make data-driven decisions. I’m actively enhancing my skills in analytics, visualization, and programming to deliver impactful results.
 
 
 ---
