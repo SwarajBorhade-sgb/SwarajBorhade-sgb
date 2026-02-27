@@ -39,10 +39,10 @@ I enjoy solving analytical problems, uncovering trends, and building tools that 
 
 ---
 
-### 🎯 Projects I'm Proud Of:
-- 🔹 **TATA Retail Strategy Dashboard** → Power BI + DAX + Executive-ready visuals
-- 🔹 **Zomato Food Delivery Dashboard** → Power BI + consumer metrics
-- 🔹 **Quantium Chips Segmentation** → R + customer targeting strategy
+## ⭐ Why I’m Here
+
+I strongly believe that **data has the power to tell stories** that lead to smarter business decisions.  
+On this profile, I share my **analytics projects, dashboards, and code samples** that reflect my learning journey and problem-solving approach.
 
 ---
 
