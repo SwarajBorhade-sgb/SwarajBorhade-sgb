@@ -34,7 +34,6 @@ I'm passionate about uncovering insights from data to support strategic decision
 
 ### 📫 Reach Me:
 - 📧 Email: [borhadeswaraj01@gmail.com](mailto:borhadeswaraj01@gmail.com)
-- 🌐 Portfolio: *Coming Soon...*
 
 ---
 
